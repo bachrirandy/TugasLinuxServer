@@ -1,8 +1,8 @@
-**Nama: Mochammad Randy Surya Bachri**
+**Nama  : Mochammad Randy Surya Bachri**
 
-**NIM: 09011282328052**
+**NIM   : 09011282328052**
 
-**Kelas: SK3A**
+**Kelas : SK3A**
 
 **Dosen Pengampu Mata Kuliah: Adi Hermansyah, S.Kom., M.T**
 
