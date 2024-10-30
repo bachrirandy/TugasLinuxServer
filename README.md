@@ -84,7 +84,7 @@ $ ufw status
 
 Cek status port dengan tulpn:
 ```
-ss -tulpn | grep ssh
+$ ss -tulpn | grep ssh
 ```
 ![Screenshot 2024-10-30 115854](https://github.com/user-attachments/assets/0f8e4298-5bca-4006-ba1d-1a42b1964eb2)
 
@@ -94,7 +94,10 @@ Cek dengan menggunakan port 22:
 
 di sini dapat kita lihat bahwa port 22 sudah tidak bisa digunakan secara remote.
 
-Lalu, cek dengan port 40
+Lalu, cek dengan port 40 dengan command:
+```
+$ ssh -p 40 [Hostusername@HostIPAddress]
+```
 ![Screenshot 2024-10-30 111814](https://github.com/user-attachments/assets/e44e83ec-f5cf-4521-bed9-4acda067e5e7)
 
 
